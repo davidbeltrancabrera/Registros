@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Registros</string>
+    <string name="tvTitulo">Registros</string>
+    <string name="tvDetalle">Confirmar Datos</string>
+    <string name="tvNombre">David Beltran</string>
+    <string name="tvlFecha">Fecha Nacimiento :</string>
+    <string name="tvFecha">25/01/1992</string>
+    <string name="tvlTelefono">Telefono :</string>
+    <string name="tvTelefono">64783456</string>
+    <string name="tvlEmail">Email :</string>
+    <string name="tvEmail">mitrabajo@gmail.com</string>
+    <string name="tvlDescripcion">Descripción :</string>
+    <string name="tvDescripcion">Registro de Datos correctos</string>
+</resources>
